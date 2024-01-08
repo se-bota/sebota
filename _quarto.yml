@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "SEBOTA I Edición"
+  title: "Excursiones SEBOTA"
   sidebar:
     background: primary
     logo: "SEBOTA_logo.png"
@@ -15,14 +15,10 @@ website:
         text: Inicio
     style: docked
     contents:
-      - href: index.qmd
-        text: Inicio
-      - href: schedule.qmd
-        text: Calendario
-      - href: materials.qmd
-        text: Materiales
-      - href: participantes.qmd
-        text: Participantes
+      - href: I-edicion.qmd
+        text: Segunda edición-Cazorla 2024
+      - href: II-edicion.qmd
+        text: Primera edición-Somiedo 2023
 
 
 
