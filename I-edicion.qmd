@@ -1,8 +1,0 @@
----
-title: "I Edición"
----
-
-
-
-Web de la primera edición: <https://se-bota.github.io/sebota-I/>
-

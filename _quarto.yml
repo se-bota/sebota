@@ -15,9 +15,9 @@ website:
         text: Inicio
     style: docked
     contents:
-      - href: I-edicion.qmd
+      - href: https://se-bota.github.io/sebota-I/
         text: Segunda edición-Cazorla 2024
-      - href: II-edicion.qmd
+      - href: https://se-bota.github.io/sebota-II/
         text: Primera edición-Somiedo 2023
 
 
