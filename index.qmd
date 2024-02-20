@@ -6,6 +6,9 @@ En esta página web puedes encontrar información acerca de la primera edición 
 
 ### ![](SEBOTA_logo.png){width=50%}
 
+[![HitCount](https://hits.dwyl.com/badge.svg?style=flat-square)](https://hits.dwyl.com/se-bota/sebota)
+[![HitCount](https://hits.dwyl.com/badge.svg?style=flat-square&show=unique)](https://hits.dwyl.com/se-bota/sebota)
+
 Para cualquier duda, no dudéis en contactar con nosotros!
 
 ##### Ignacio Ramos Gutiérrez ([ig.ramosgutierrez\@gmail.com](mailto:ig.ramosgutierrez@gmail.com))
