@@ -4,10 +4,7 @@ title: "SEBOTA - Salidas Botánicas de la SEBOT"
 
 En esta página web puedes encontrar información acerca de la primera edición de las salidas de SEBOTA.
 
-### ![](SEBOTA_logo.png){width=50%}
-
-[![HitCount](https://hits.dwyl.com/badge.svg?style=flat-square)](https://hits.dwyl.com/se-bota/sebota)
-[![HitCount](https://hits.dwyl.com/badge.svg?style=flat-square&show=unique)](https://hits.dwyl.com/se-bota/sebota)
+### ![](SEBOTA_logo.png){width="50%"}
 
 Para cualquier duda, no dudéis en contactar con nosotros!
 
@@ -19,4 +16,4 @@ Para cualquier duda, no dudéis en contactar con nosotros!
 
 ##### Sara Martín Hernanz ([sara.martin.hernanz\@gmail.com](mailto:sara.martin.hernanz@gmail.com))
 
-
+[![HitCount](https://hits.dwyl.com/se-bota/sebota.svg)](https://hits.dwyl.com/se-bota/sebota) [![HitCount](https://hits.dwyl.com/se-bota/sebota.svg&show=unique)](https://hits.dwyl.com/se-bota/sebota)
