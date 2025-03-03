@@ -1,7 +1,7 @@
 ---
 title: "SEBOTA - Salidas Botánicas de la SEBOT"
 ---
-
+ 
 En esta página web puedes encontrar información acerca de la primera edición de las salidas de SEBOTA.
 
 ### ![](SEBOTA_logo.png){width="50%"}
@@ -10,10 +10,12 @@ Para cualquier duda, no dudéis en contactar con nosotros!
 
 ##### Ignacio Ramos Gutiérrez ([ig.ramosgutierrez\@gmail.com](mailto:ig.ramosgutierrez@gmail.com))
 
-##### José Ignacio Márquez-Corro ([jimarcorr\@gmail.com](mailto:jimarcorr@gmail.com))
+<!-- ##### José Ignacio Márquez-Corro ([jimarcorr\@gmail.com](mailto:jimarcorr@gmail.com)) -->
 
-##### Juan Carlos Velázquez Melero ([velazquezjc92\@gmail.com](mailto:velazquezjc92@gmail.com))
+<!-- ##### Juan Carlos Velázquez Melero ([velazquezjc92\@gmail.com](mailto:velazquezjc92@gmail.com)) -->
+
+##### Sonia Molino de Miguel ([soniamolinodemiguel\@gmail.com](mailto:soniamolinodemiguel@gmail.com))
 
 ##### Sara Martín Hernanz ([sara.martin.hernanz\@gmail.com](mailto:sara.martin.hernanz@gmail.com))
 
-[![HitCount](https://hits.dwyl.com/se-bota/sebota.svg)](https://hits.dwyl.com/se-bota/sebota) [![HitCount](https://hits.dwyl.com/se-bota/sebota.svg&show=unique)](https://hits.dwyl.com/se-bota/sebota)
+<!-- [![HitCount](https://hits.dwyl.com/se-bota/sebota.svg)](https://hits.dwyl.com/se-bota/sebota) [![HitCount](https://hits.dwyl.com/se-bota/sebota.svg&show=unique)](https://hits.dwyl.com/se-bota/sebota) -->

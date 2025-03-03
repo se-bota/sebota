@@ -15,6 +15,8 @@ website:
         text: Inicio
     style: docked
     contents:
+      - href: https://se-bota.github.io/sebota-III/
+        text: Tercera edición-Navarra 2025
       - href: https://se-bota.github.io/sebota-II/
         text: Segunda edición-Cazorla 2024
       - href: https://se-bota.github.io/sebota-I/
