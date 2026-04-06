@@ -2,7 +2,7 @@
 title: "SEBOTA - Salidas Botánicas de la SEBOT"
 ---
  
-En esta página web puedes encontrar información acerca de la primera edición de las salidas de SEBOTA.
+En esta página web puedes encontrar información acerca de las distintas ediciones de salidas de SEBOTA.
 
 ### ![](SEBOTA_logo.png){width="50%"}
 
